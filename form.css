@@ -1,0 +1,27 @@
+* {
+      font-family: Verdana;
+}
+
+
+.form {
+      border: 1px solid black;
+      border-radius: 10px;
+      background-color: white;
+}
+
+body {
+      background-color: purple !important;
+}
+
+input[type="submit"]{
+      background-color: purple;
+      color: white;
+      border: none;
+      padding: 5px 0px;
+}
+
+a{
+      text-decoration: none !important;
+      color: purple !important;
+}
+

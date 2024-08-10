@@ -1,0 +1,30 @@
+*{
+      font-family: "Verdana", Geneva, Tahoma, sans-serif;
+}
+
+.navbg{
+      background-color: purple;
+      font-weight: bold;
+}
+
+.heading {
+      color: purple;
+      font-size: 5vw;
+      font-weight: bolder;
+      text-shadow: 2px 2px grey;
+      text-align: center;
+}
+
+.footerbg {
+      background-color: rgba(0, 0, 0, 0.907);
+      color: white;
+}
+
+.link {
+      color: white !important;
+}
+
+.link:hover {
+      color: purple !important;
+}
+

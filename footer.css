@@ -1,0 +1,16 @@
+* {
+    font-family: "Verdana", Geneva, Tahoma, sans-serif;
+}
+
+.footerbg {
+    background-color: rgba(0, 0, 0, 0.907);
+    color: white;
+}
+
+.link {
+    color: white !important;
+}
+
+.link:hover {
+    color: purple !important;
+}

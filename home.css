@@ -1,0 +1,122 @@
+*{
+      font-family: "Verdana", Geneva, Tahoma, sans-serif;
+      font-weight: bold;
+}
+.navbg{
+      background-color: purple;
+      font-weight: bold;
+}
+
+.img-responsive {
+      width: 100%;
+      height: auto;
+}
+
+.img-overlay .btn{
+      padding: 15px 30px !important;
+      font-size: larger;
+}
+
+.img-wrapper {
+      position: relative;
+}
+
+.img-overlay {
+      position: absolute;
+      top: 0;
+      bottom: 0;
+      left: 0;
+      right: 0;
+      text-align: center;
+}
+
+.img-overlay:before {
+      content: ' ';
+      display: block;
+      height: 75%;
+}
+
+.heading{
+      color:purple;
+      font-size: 5vw;
+      font-weight: bolder;
+      text-shadow: 2px 2px grey ;
+      text-align:center;
+}
+
+.card-img-top {
+      max-height: 25vh; 
+      object-fit: contain;
+}
+
+.card .bg1{
+      background-color: blue;
+      
+}
+
+.card .bg2{
+      background-color: darkcyan;
+      
+}
+
+.card .bg3{
+      background-color: orange;
+      
+}
+
+.card .bg4{
+      background-color: maroon;
+      
+}
+
+.card .bg5{
+      background-color: green;
+      
+}
+
+.card .bg6{
+      background-color: red;
+      
+}
+
+.card .bg7{
+      background-color: mediumseagreen;
+      
+}
+
+.card .bg8{
+      background-color: crimson;
+      
+}
+
+.card .cardtxt{
+      font-weight: bold;
+      color: white;
+}
+
+.footerbg{
+      background-color: rgba(0, 0, 0, 0.907);
+      color: white;
+}
+
+.link{
+      color: white !important;
+}
+
+.link:hover{
+      color: purple !important;
+}
+
+p {
+      text-align: justify;
+}
+
+a .button{
+      background-color: purple;
+      color: white;
+      text-decoration: none;
+      border: none;
+      font-weight: normal;
+      border-radius: 5px;
+      padding: 10px 15px;
+}
